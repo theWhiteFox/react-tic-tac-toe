@@ -41,11 +41,15 @@ body {
   }
   
   .game {
+      width: 100px;
+  height: 100px;
     display: flex;
     flex-direction: row;
+    justify-content: center;
+    
   }
+ 
   
   .game-info {
     margin-left: 20px;
   }
-  
