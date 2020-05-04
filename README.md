@@ -1,3 +1,5 @@
+![react tic tac toe](https://github.com/theWhiteFox/react-tic-tac-toe/blob/master/public/react-tic-tac-toe.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
