@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/34957641-f529-41d9-a8b1-15b3df402811/deploy-status)](https://app.netlify.com/sites/reactjs-tic-tac-toe/deploys)
+
 ![react tic tac toe](https://github.com/theWhiteFox/react-tic-tac-toe/blob/master/public/react-tic-tac-toe.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
