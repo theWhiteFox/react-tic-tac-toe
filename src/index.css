@@ -40,15 +40,17 @@ body {
     background: #ddd;
   }
   
-  .game {
-      width: 100px;
-  height: 100px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    
-  }
- 
+ .game {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+ .game > .board {
+  width: 190px;
+  height: 190px;
+}
   
   .game-info {
     margin-left: 20px;
